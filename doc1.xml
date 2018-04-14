@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DoctorData Name="Max" Exp="28" >
+    <AppointmentData Day="1" Visitor="321" Comment="fdgsdhsd" />
+    <AppointmentData Day="2" Visitor="231" Comment="sagdsrewd" />
+    <AppointmentData Day="3" Visitor="331" Comment="saghredghrerfgr" />
+    <AppointmentData Day="4" Visitor="124" Comment="aeretj" />
+    <AppointmentData Day="5" Visitor="314" Comment="dageshtrykuj" />
+</DoctorData>
